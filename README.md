@@ -1,6 +1,6 @@
 ## ⚡ There is no end-user support for things here.
 
-Things here are things I am willing for people/AIs/LLMs, to use.
+Things here are things I am willing for people/LLMs to use.
 
 ## Why no support?
 
