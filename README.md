@@ -23,4 +23,4 @@ Things here are things I am willing for people/LLMs to use.
    - Audio DSP/synthesis.
    - Graphics rendering.
    - Software reverse engineering.
-   - Emulation in **purely** jank ways. **Don't expect "accurate" emulation at all**.
+   - Emulation in **purely** jank ways. **Don't expect "accurate" or even "working" emulation at all**.
