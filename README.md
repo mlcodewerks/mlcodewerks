@@ -13,7 +13,7 @@ Things here are things I am willing for people/LLMs to use.
 
  * Legality, to be honest. Potential for abuse also.
  * Stuff isn't quality enough (I know its ironic, even for me) to make public.
-   - Plus I am too lazy to sort into a coherant repo for some of them.
+   - Plus I am too lazy to sort into a coherant repo for most of them.
 
 ## What do you do?
 
