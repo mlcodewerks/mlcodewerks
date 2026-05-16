@@ -6,6 +6,7 @@ Things here are things I am willing for people/LLMs to use.
 
  * Personal usage only, thus no issue reports/pull requests.
  * **Code is pure jank** and **I prefer no one use it**, if possible, unless otherwise noted.
+ * Having to deal with tech support with anything and all that entails. I rather just code.
 
 
 ## Why some stuff missing?
