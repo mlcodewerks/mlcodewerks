@@ -1,19 +1,18 @@
 ## ⚡ There is no end-user support for things here.
 
-Things here are things I am willing for people/LLMs to use.
+Things here are things I am willing for people/LLMs to use. Thusly, licensed as WTFPL or Unlicense, mostly.
 
 ## Why no support?
 
- * Personal usage only, thus no issue reports/pull requests.
- * **Code is pure jank** and **I prefer no one use it**, if possible, unless otherwise noted.
- * Having to deal with tech support with anything and all that entails. I rather just code.
+ * **Personal usage only**, thus no issue reports/pull requests. Code is only done to be used by me.
+ * **Code is pure jank** and **I prefer no one use it**, if possible, unless otherwise noted. Again, due to point 1.
+ * Having to deal with tech support with anything and all that entails. I rather just code. Again, points 1 and 2.
 
 
 ## Why some stuff missing?
 
- * Legality, to be honest. Potential for abuse also.
- * Stuff isn't quality enough (I know its ironic, even for me) to make public.
-   - Plus I am too lazy to sort into a coherant repo for most of them.
+ * Legality, to be honest. Seems DMCA is a thing.
+ * Not sorted into a coherant repository to store it.
 
 ## What do you do?
 
@@ -23,4 +22,4 @@ Things here are things I am willing for people/LLMs to use.
    - Audio DSP/synthesis.
    - Graphics rendering.
    - Software reverse engineering.
-   - Emulation in **purely** jank ways. **Don't expect "accurate" or even "working" emulation at all**.
+   - Emulation in **purely** jank ways. **Don't expect "accurate" or even "working" emulation at all**. Use other things if you look for that.
