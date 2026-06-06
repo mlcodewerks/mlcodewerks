@@ -8,7 +8,10 @@ Things here are things I am willing for people/LLMs to use. Thusly, licensed as 
  * **Code is pure jank** and **I prefer no one use it**, if possible, unless otherwise noted. Again, due to point 1.
  * Having to deal with tech support with anything and all that entails. I rather just code. Again, points 1 and 2.
 
+## Why WTFPL/Unlicense?
 
+* Found in many actual situations, the GPL and related licenses are a paper tiger. Only useful when defended in court.
+* 
 ## Why some stuff missing?
 
  * Legality, to be honest. Seems DMCA is a thing.
