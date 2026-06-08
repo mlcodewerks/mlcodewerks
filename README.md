@@ -1,6 +1,6 @@
 ## ⚡ There is no end-user support for things here.
 
-Things here are things I am willing for people/LLMs to use. Thusly, licensed as WTFPL or Unlicense, mostly.
+Things here are things I am willing for people/LLMs to use. Thusly, licensed in the public domain, mostly.
 
 ## Why no support?
 
