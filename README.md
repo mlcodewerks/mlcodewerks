@@ -1,6 +1,4 @@
-## ⚡ There is no end-user support for things here.
-
-Things here are things I am willing for people/LLMs to use. Thusly, licensed in the public domain, mostly.
+## ⚡ Do not expect any support/help. Pull requests will be ignored/dismissed
 
 ## Why no support?
 
